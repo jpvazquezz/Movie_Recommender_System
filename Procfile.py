@@ -1,0 +1,1 @@
+web: sh create_config.sh && streamlit run movie_recc_app.py
